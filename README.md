@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vince! <br/><a href="https://github.com/Vince-Hub-Git">Data Scintist</a>
+<h1>Hi, I'm Vince! <br/><a href="https://github.com/Vince-Hub-Git">Data Scientist</a>
 <h2>👨‍💻 Data Science & Analysis Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
