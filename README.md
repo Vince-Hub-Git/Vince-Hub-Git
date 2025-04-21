@@ -3,7 +3,7 @@
 
 - <b>Data Visualizaton</b>
   - [Facebook Ads](https://github.com/Vince-Hub-Git/FacebookAdsAnalysis/tree/main)
-  - 
+  - [Cleaning Payment Dataset](https://github.com/Vince-Hub-Git/Cleaning-Payment-Dataset/tree/main)
 - <b>Machine Learning</b>
   - [First K-Nearest Neighbor Model](https://github.com/Vince-Hub-Git/First-KNN-Model)
 <h2> 🤳 Connect with me:</h2>
