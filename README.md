@@ -5,6 +5,7 @@
   - [Facebook Ads](https://github.com/Vince-Hub-Git/FacebookAdsAnalysis/tree/main)
   - [Cleaning Payment Dataset](https://github.com/Vince-Hub-Git/Cleaning-Payment-Dataset/tree/main)
   - [Weather Visualization](https://github.com/Vince-Hub-Git/Weather-Visualizations/blob/main/README.md)
+  - [Logistic Regression Investigation](https://github.com/Vince-Hub-Git/Logistic-Regression-Investigation/blob/main/README.md)
  
   <br>
 - <b>Machine Learning</b>
